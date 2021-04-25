@@ -1,0 +1,8 @@
+{
+  "name": "discriminacao-acoes-fiis-irpf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:eduardolagolima/discriminacao-acoes-fiis-irpf.git",
+  "author": "eduardolagolima <eduardolagolima@gmail.com>",
+  "license": "MIT"
+}
